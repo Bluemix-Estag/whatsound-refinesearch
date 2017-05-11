@@ -4,7 +4,6 @@ var cfenv = require("cfenv");
 var request = require('request');
 var bodyParser = require('body-parser')
 
-
 var CUSTOMSEARCH_KEY = "AIzaSyAbnV-VN6hTDxJyEXxizRv4cLKuudYl8bk";
 var CUSTOMSEARCH_CX = "013164454877212744312:svfzuhhysqa"
 
