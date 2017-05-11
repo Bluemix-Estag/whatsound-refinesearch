@@ -1,0 +1,5 @@
+---
+applications:
+ - name: RefinedSearch
+   random-route: refinedsearch-api
+   memory: 128M
